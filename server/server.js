@@ -1,5 +1,8 @@
 console.log('Look at me go!');
 
+// bring express into your project
+// you will need to `npm init --yes` and `npm install express` first
+
 // Load express library from node_modules/express:
 const express = require('express');
 
