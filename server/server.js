@@ -21,3 +21,8 @@ app.use(express.static('./server/public'));
 app.listen(5000, function() {
     console.log('Your first express server is running!');
 });
+
+// type in terminal: 
+    // node server/server.js to run server
+    // control + c to exit server
+// website to access:  localhost:5000
