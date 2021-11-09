@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kbrown55347/my-first-express-server/issues"
   },
-  "homepage": "https://github.com/kbrown55347/my-first-express-server#readme"
+  "homepage": "https://github.com/kbrown55347/my-first-express-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
